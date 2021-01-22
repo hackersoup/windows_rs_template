@@ -6,4 +6,4 @@ rust file.
 
 To use this template, run:
 
-> `cargo generate --git https://github.com/hackersoup/windows_rs_template --name myproject`
+> `cargo generate --git https://github.com/hackersoup/windows_rs_template --branch main --name myproject`
